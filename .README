@@ -1,0 +1,16 @@
+This Chess Game program was made by Ori Aharonof, Neria Ovad and Yehonatan Natan
+and is the result of a lot of time and effort.
+We hope that you will find this game fun to play.
+Notes:
+1. The gui is dynamic to your screen resolution
+2. There is no need to open the GUI engine before starting the program, it does that on it's own
+3. When starting, the program asks you if you want to load a file. This is used to load previously created saves
+4. The program uses *.txt format to save it's files
+5. We improved the GUI to look better
+6. We made the GUI run on full screen
+7. We set the GUI's icon to a better one
+8. We added an ascii art to the console ;-)
+9. Look at the console in the end of every game. It has the history of all moves you and the
+   opponet did in the previous game.
+
+- sincerly, CHESS INC

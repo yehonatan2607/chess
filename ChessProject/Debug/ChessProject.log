@@ -1,0 +1,14 @@
+﻿  bishop.cpp
+  board.cpp
+  king.cpp
+  knight.cpp
+  main.cpp
+D:\magshimim\יא\eliran\chess-project\ChessProject\main.cpp(70,15): warning C4018: '<': signed/unsigned mismatch
+  pawn.cpp
+  piece.cpp
+  queen.cpp
+  rook.cpp
+  Source.cpp
+  stdafx.cpp
+  Generating Code...
+  ChessProject.vcxproj -> D:\magshimim\יא\eliran\chess-project\Debug\ChessProject.exe
